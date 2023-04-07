@@ -11,8 +11,6 @@ return {
         "eslint",
         "rust_analyzer",
         "taplo",
-        "vls",
-        "sqlls",
         "svelte",
         "gopls",
       },

@@ -11,7 +11,6 @@ return {
       "yaml",
       "toml",
       "regex",
-      "zig",
       "tsx",
       "html",
       "scss",
