@@ -12,7 +12,6 @@ return {
                 "rust_analyzer",
                 "taplo",
                 "svelte",
-                "gopls",
                 "cssls",
             },
         },
@@ -22,7 +21,7 @@ return {
         "jay-babu/mason-null-ls.nvim",
         -- overrides `require("mason-null-ls").setup(...)`
         opts = {
-            ensure_installed = { "prettier", "stylua", "yamlfmt", "rustfmt", "gofumpt", "goimports" },
+            ensure_installed = { "prettier", "stylua", "yamlfmt", "rustfmt" },
         },
     },
     {
