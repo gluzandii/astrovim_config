@@ -1,5 +1,5 @@
 return {
-    "folke/tokyonight.nvim"
+    -- "folke/tokyonight.nvim"
     -- You can also add new plugins here as well:
     -- Add plugins, the lazy syntax
     -- "andweeb/presence.nvim",
